@@ -46,13 +46,13 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.sage.com/intacct/docs/
-      - type: API Reference
+      - type: APIReference
         url: https://developer.sage.com/intacct/apis/intacct/1/intacct-openapi
       - type: OpenAPI
         url: https://developer.sage.com/intacct/apis/intacct/1/intacct-openapi
       - type: Authentication
         url: https://developer.sage.com/intacct/docs/1/sage-intacct-rest-api/authorization-and-security/oauth2
-      - type: Getting Started
+      - type: GettingStarted
         url: https://developer.sage.com/intacct/docs/1/sage-intacct-rest-api/get-started
   - aid: sage-intacct-accounting:xml-api
     name: Sage Intacct XML API
