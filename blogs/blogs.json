@@ -3,16 +3,13 @@
   "feeds": [
     {
       "source": "https://www.sage.com/en-us/blog/category/intacct/",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://www.intacct.com/ia/acct/login.phtml",
-      "feed_url": "https://www.intacct.com/ia/acct/login.phtml",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape",
+      "note": "category url 404; fetched https://www.sage.com/en-us/blog/ fallback, no in-window posts"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:07:27Z",
+  "agent_pulled": "2026-06-27"
 }
