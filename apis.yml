@@ -71,6 +71,10 @@ apis:
         url: https://developer.intacct.com/api/
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/sage-intacct-accounting-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/sage-intacct-accounting-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/intacct
   - type: LinkedIn
